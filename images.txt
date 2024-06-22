@@ -1,2 +1,3 @@
 alpine:latest
-halohub/halo-pro:2.16.4
+halohub/halo-pro:latest
+nginx:latest
