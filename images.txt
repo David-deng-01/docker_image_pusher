@@ -7,3 +7,4 @@ mysql
 phpmyadmin
 php
 cloudflare/cloudflared
+wisdomsky/cloudflared-web
