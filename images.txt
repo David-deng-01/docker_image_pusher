@@ -2,8 +2,7 @@ alpine
 halohub/halo-pro:2.16.3
 nginx
 xhofe/alist
-qbittorrent
-qbittorrent
+linuxserver/qbittorrent:4.6.5
 mysql
 phpmyadmin
 php
