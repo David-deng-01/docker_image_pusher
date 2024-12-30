@@ -8,3 +8,4 @@ phpmyadmin
 php
 cloudflare/cloudflared
 wisdomsky/cloudflared-web
+cloudflare/cloudflared:latest
